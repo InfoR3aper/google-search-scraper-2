@@ -1,0 +1,27 @@
+{
+  "name": "google-search-scraper",
+  "version": "1.0.0",
+  "description": "A scraper to google searches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioDelgado/google-search-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "google-search"
+  ],
+  "author": "Caio Delgado <caiodelgado.csd@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/caioDelgado/google-search-scraper/issues"
+  },
+  "homepage": "https://github.com/caioDelgado/google-search-scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
